@@ -1,8 +1,9 @@
-
-Formula1 ETL Analytics Project
+# Formula1 ETL Analytics Project
 This project focuses on analyzing Formula 1 data using Apache Airflow for ETL processes and Power BI for visualization.
 
-Power BI Dashboard
+
+
+# Power BI Dashboard
 Below are screenshots of the Power BI dashboard showcasing key visualizations and metrics:
 
 
